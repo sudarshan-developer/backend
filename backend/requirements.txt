@@ -1,27 +1,25 @@
-# Core Python utilities
+# Core
 python-dotenv
 
-# FastAPI stack
+# FastAPI
 fastapi
-uvicorn
+uvicorn[standard]
 python-multipart
 
-# Database (Async SQLAlchemy)
+# Database (Async)
 sqlalchemy>=2.0
 asyncpg
 
-# Auth & Security
+# Auth
 PyJWT
 google-auth
 
-# Data & Math
+# Data
 pandas
 numpy
 
 # Vector DB
-pinecone
 pinecone-client
 
-
-# Google Generative AI
+# Google GenAI
 google-generativeai
