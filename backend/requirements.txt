@@ -23,3 +23,5 @@ pinecone-client
 
 # Google GenAI
 google-generativeai
+
+aiosqlite
